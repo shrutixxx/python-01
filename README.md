@@ -1,1 +1,1 @@
-# python-01
+# This is a repository for my python codes.
