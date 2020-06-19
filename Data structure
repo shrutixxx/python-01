@@ -1,0 +1,17 @@
+​####    LIST --->>>  list() ---it is a data   
+​#  we can make list by assigning diff types   
+​#  
+​# sl = [1,5,"hello",6]  
+​# sl1= [2,6,9,"hello"]  
+​#  
+​# ll = [sl,sl1]  
+​#  
+​# print(ll[1][2])  
+​####TUPLE ----->>>>> is immutable but have l  
+​# to check its functions use the dir() funct  
+​# t= 1,2,3,4  
+​# print(dir(t))  
+​# print(type(t))  
+​#  
+​# for a single element------->>>  
+​#
